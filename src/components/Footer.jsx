@@ -34,7 +34,7 @@ export const Footer = () => {
               </a>
             </div>
             <p>
-              Copyright 2022. All Rights Reserved
+              Copyright 2023. All Rights Reserved
             </p>
           </Col>
         </Row>
